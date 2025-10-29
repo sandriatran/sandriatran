@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sandriatran
-- 💞️ I like food <3 via https://www.beacons.ai/thesoftbunnyxx
-- 📫 How to reach me a sandriat@proton.me
+
